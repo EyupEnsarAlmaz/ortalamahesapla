@@ -1,4 +1,4 @@
-# ortalamahesapla
+# Average calculation
 
 A new Flutter project.
 
