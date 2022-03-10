@@ -1,5 +1,8 @@
 # Average calculation
 
+![ortalama](https://user-images.githubusercontent.com/67228806/157726132-5e141836-684a-4169-8f86-3c4d035f33b5.png)
+
+
 A new Flutter project.
 
 ## Getting Started
